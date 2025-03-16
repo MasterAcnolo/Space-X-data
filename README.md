@@ -1,6 +1,6 @@
-#Space X Data
+# Space X Data
 
-Utilisation de l'API Space X pour récupérer des infos
+Utilisation de l'API Space X pour récupérer des infos sur les vols. Sert de modèle
 
 ## Summary
 
@@ -25,7 +25,7 @@ J'utilise simplement l'API Space X pour récupérer des informations sur les vol
 
 ## Utilisation
 
-Pour l'utiliser rien de plus simple, lancez le site HTML, l'API de Space X "https://api.spacexdata.com/v4/launches/latest" fera le travail de recherche. Notons que je n'ai pas pousser le projet très loin, j'ai juste voulu tester pour voir donc libre à vous d'améliorer le projet. 
+Pour l'utiliser rien de plus simple, lancez le site HTML, l'API de Space X https://api.spacexdata.com/v4/launches/latest fera le travail de recherche. Notons que je n'ai pas pousser le projet très loin, j'ai juste voulu tester pour voir donc libre à vous d'améliorer le projet. 
 
 
 ## Licences
